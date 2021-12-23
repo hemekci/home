@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.7190c8e8.chunk.css",
-    "main.js": "/static/js/main.9ec6089e.chunk.js",
-    "main.js.map": "/static/js/main.9ec6089e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.554504a0.js",
-    "runtime-main.js.map": "/static/js/runtime-main.554504a0.js.map",
-    "static/js/2.0a956ed1.chunk.js": "/static/js/2.0a956ed1.chunk.js",
-    "static/js/2.0a956ed1.chunk.js.map": "/static/js/2.0a956ed1.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.c081238d8242275d420ca4b160cd25ae.js": "/precache-manifest.c081238d8242275d420ca4b160cd25ae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.7190c8e8.chunk.css.map": "/static/css/main.7190c8e8.chunk.css.map",
-    "static/js/2.0a956ed1.chunk.js.LICENSE.txt": "/static/js/2.0a956ed1.chunk.js.LICENSE.txt",
-    "static/media/hemekci.jpeg": "/static/media/hemekci.0bec4930.jpeg",
-    "static/media/resume.pdf": "/static/media/resume.f76c3ff1.pdf"
+    "main.css": "/hemekci.github.io/static/css/main.7190c8e8.chunk.css",
+    "main.js": "/hemekci.github.io/static/js/main.8c823202.chunk.js",
+    "main.js.map": "/hemekci.github.io/static/js/main.8c823202.chunk.js.map",
+    "runtime-main.js": "/hemekci.github.io/static/js/runtime-main.e92953ff.js",
+    "runtime-main.js.map": "/hemekci.github.io/static/js/runtime-main.e92953ff.js.map",
+    "static/js/2.0a956ed1.chunk.js": "/hemekci.github.io/static/js/2.0a956ed1.chunk.js",
+    "static/js/2.0a956ed1.chunk.js.map": "/hemekci.github.io/static/js/2.0a956ed1.chunk.js.map",
+    "index.html": "/hemekci.github.io/index.html",
+    "precache-manifest.5bd3192b5d627ecf9482eba0009c9d67.js": "/hemekci.github.io/precache-manifest.5bd3192b5d627ecf9482eba0009c9d67.js",
+    "service-worker.js": "/hemekci.github.io/service-worker.js",
+    "static/css/main.7190c8e8.chunk.css.map": "/hemekci.github.io/static/css/main.7190c8e8.chunk.css.map",
+    "static/js/2.0a956ed1.chunk.js.LICENSE.txt": "/hemekci.github.io/static/js/2.0a956ed1.chunk.js.LICENSE.txt",
+    "static/media/hemekci.jpeg": "/hemekci.github.io/static/media/hemekci.0bec4930.jpeg",
+    "static/media/resume.pdf": "/hemekci.github.io/static/media/resume.f76c3ff1.pdf"
   },
   "entrypoints": [
-    "static/js/runtime-main.554504a0.js",
+    "static/js/runtime-main.e92953ff.js",
     "static/js/2.0a956ed1.chunk.js",
     "static/css/main.7190c8e8.chunk.css",
-    "static/js/main.9ec6089e.chunk.js"
+    "static/js/main.8c823202.chunk.js"
   ]
 }
